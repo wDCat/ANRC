@@ -8,10 +8,14 @@ It's used to help me play some games.
 
 Please write down the game name that the plugin can not work on.Thanks~
 
-Feature:
+Xposed Repo:http://repo.xposed.info/module/cat.dcat.roothide
+
+# Feature:
 -Bypass native root and xposed check.
 
 -Fake the env. property.
+
+-File map.
 
 -App hide.
 
