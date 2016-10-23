@@ -167,7 +167,7 @@
     <string name="save">Sichern</string>
     <string name="search">Suchen</string>
     <string name="select_keryword_type">Keywords type</string>
-    <string name="selinux_intro"></string>
+    <string name="selinux_intro">-</string>
     <string name="selinux_off">Deaktiviere SELinux</string>
     <string name="selinux_on">Aktiviere SELinux</string>
     <string name="selinux_set">SELinux</string>
@@ -231,4 +231,9 @@
         <item>Checking process</item>
         <item>nya nya nya？</item>
     </string-array>
+    <string name="file_action_map_to_rdonly">Redirect to a read-only file</string>
+    <string name="bypass_safetynet">Bypass SafetyNet</string>
+    <string name="bypass_safetynet_de">-</string>
+    <string name="experi">Experiment</string>
+    <string name="use_dep_inject_way">Use the old injection method</string>
 </resources>

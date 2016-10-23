@@ -29,7 +29,7 @@
     <string name="selinux_intro">在部分三星原厂ROM中，可能会因为KNOX的限制而导致SELinux无法关闭，具体解决办法请自行百度</string>
     <string name="ol_ol">完成</string>
     <string name="title_activity_request_xposed">需要 Xposed</string>
-    <string name="title_activity_first_use"> </string>
+    <string name="title_activity_first_use">-</string>
     <string name="title_activity_config_editor">编辑关键词列表</string>
     <string name="title_activity_advanced_setting">高级设置</string>
     <string name="ad_set_keyword">配置关键词列表</string>
@@ -44,14 +44,14 @@
     <string name="title_activity_env_fake_editor">编辑 环境变量映射表</string>
     <string name="env_name">变量名</string>
     <string name="env_value">值</string>
-    <string name="title_activity_re_gene_prop_files"> </string>
-    <string name="title_activity_not_ready_warn"> </string>
+    <string name="title_activity_re_gene_prop_files">-</string>
+    <string name="title_activity_not_ready_warn">-</string>
     <string name="status_warn_text">检测到一些问题，会导致插件无法正常工作。(点击这条消息去解决)</string>
     <string name="title_activity_un_install">UnInstallActivity</string>
     <string name="title_activity_email_send">显示邮件内容(for debug only)</string>
     <string name="title_activity_hide_app_list">隐藏的应用</string>
-    <string name="title_activity_pm_replace"> </string>
-    <string name="title_activity_inject_failed"> </string>
+    <string name="title_activity_pm_replace">-</string>
+    <string name="title_activity_inject_failed">-</string>
     <string name="retry">重试</string>
     <string name="btn_continue">忽略，继续执行</string>
     <string name="exit">退出</string>
@@ -231,4 +231,9 @@
     <string name="pa_dilong_de">就是应用启动前那个提示框</string>
     <string name="on">开</string>
     <string name="off">关</string>
+    <string name="file_action_map_to_rdonly">映射到另一个文件（只读模式）</string>
+    <string name="bypass_safetynet">Bypass SafetyNet</string>
+    <string name="bypass_safetynet_de">先放个开关在这。。。</string>
+    <string name="experi">实验性功能</string>
+    <string name="use_dep_inject_way">使用旧的注入方式</string>
 </resources>

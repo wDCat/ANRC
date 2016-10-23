@@ -6,7 +6,7 @@
     <string name="ad_set_filemap">File mapping</string>
     <string name="ad_set_keyword">Edit keywords List</string>
     <string name="app_full_name">DCat\'s ANRC</string>
-    <string name="app_list_removed">Removed</string>
+    <string name="app_list_removed">Removed  </string>
     <string name="app_list_removed_recall">Cancel</string>
     <string name="ask">Ask</string>
     <string name="ask_force_stop">Force stop %s ?</string>
@@ -14,7 +14,7 @@
     <string name="auto_switch_selinux_off">Auto disable SELinux at device startup</string>
     <string name="bin_redirect">/.../bin Redirect to</string>
     <string name="btn_continue">Ignore</string>
-    <string name="cancel">Stop</string>
+    <string name="cancel">Cancel</string>
     <string name="cancel_select">Cancel</string>
     <string name="checking_msg">-</string>
     <string name="checking_msg_wait">Please wait...</string>
@@ -109,7 +109,7 @@
     <string name="o_clean_manu_de">-</string>
     <string name="off">Off</string>
     <string name="ok">OK</string>
-    <string name="okokok">OK</string>
+    <string name="okokok">Yes</string>
     <string name="ol_ol">Done.</string>
     <string name="on">On</string>
     <string name="other">Others</string>
@@ -167,7 +167,7 @@
     <string name="save">Save</string>
     <string name="search">Search</string>
     <string name="select_keryword_type">Keywords type</string>
-    <string name="selinux_intro"></string>
+    <string name="selinux_intro">-</string>
     <string name="selinux_off">Disable SELinux</string>
     <string name="selinux_on">Enable SELinux</string>
     <string name="selinux_set">SELinux</string>
@@ -225,10 +225,16 @@
     <string name="xposed_start_fail">Failed to start, please manually enter the Xposed Installer is enabled.</string>
     <string name="xposed_require">Xposed is required</string>
     <string name="yes">Yes</string>
+    <string name="file_action_map_to_rdonly">Redirect to a read-only file</string>
+    <string name="bypass_safetynet">Bypass SafetyNet</string>
+    <string name="experi">Experiment</string>
+    <string name="use_dep_inject_way">Use the old injection method</string>
     <string-array name="tips">
         <item>Paing DiLong</item>
         <item>Checking process</item>
-        <item>Checking process</item>
+        <item>Playing with a cat</item>
+        <item>This dialog can be disabled in the setting.</item>
         <item>nya nya nya？</item>
     </string-array>
+    <string name="bypass_safetynet_de">-</string>
 </resources>
