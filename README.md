@@ -19,11 +19,9 @@ Xposed Repo:http://repo.xposed.info/module/cat.dcat.roothide
 
 -App hide.
 
-# Screenshots
-![image](https://github.com/wDCat/ANRC/raw/master/screenshots/1.png)
-
-![image](https://github.com/wDCat/ANRC/raw/master/screenshots/2.png)
-
 # Download
 
 http://repo.xposed.info/module/cat.dcat.roothide
+
+# Screenshots
+![image](https://github.com/wDCat/ANRC/raw/master/screenshots/1.png)
