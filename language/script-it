@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">ANRC</string>
+
+    <string name="accept">Accetta</string>
+
+    <string name="accept_request">Devi accettare i termini e le condizioni di servizio.</string>
+
+    <string name="ad_set_filemap">Mappatura dei file</string>
+
+    <string name="ad_set_keyword">Modifica la lista delle Parole Chiave (keywords)</string>
+
+    <string name="app_full_name">ANRC di DCat</string>
+
+    <string name="app_list_removed">Rimossa</string>
+
+    <string name="app_list_removed_recall">Annulla</string>
+
+    <string name="ask">Chiedi</string>
+
+    <string name="ask_force_stop">Chiusura Forzata %s ?</string>
+
+    <string name="auto_remove_tmp_file">Rimuovi automaticamente file temporanei (tmp)</string>
+
+    <string name="auto_switch_selinux_off">Disabilita automaticamente SELinux all'avvio del dispositivo</string>
+
+    <string name="bin_redirect">/.../Reindirizza bin a</string>
+
+    <string name="btn_continue">Ignora</string>
+
+    <string name="Annulla">Stop</string>
+
+    <string name="cancel_select">Annulla</string>
+
+    <string name="checking_msg">-</string>
+
+    <string name="checking_msg_wait">Attendere prego...</string>
+
+    <string name="checking_root">Controllando il root...</string>
+
+    <string name="checking_xposed">Controllando Xposed...</string>
+
+    <string name="clean_routine">Cancella routine</string>
+
+    <string name="cmdline_replace">Rimpiazza keyword nella cmdline con</string>
+
+    <string name="continue_solve">Risolvi</string>
+
+    <string name="copying_files">Copiatura dei files...</string>
+
+    <string name="dealing_files">Attendi un momento...</string>
+
+    <string name="dev">Sviluppatore</string>
+
+    <string name="dev_log">Attiva i Log</string>
+
+    <string name="dev_log_de">Esporta i log e relative impostazioni</string>
+
+    <string name="dev_log_out">Esporta i Log</string>
+
+    <string name="dev_mode_warn">Attivare i log probabilmente comporterà dei problemi a livello di performance, se il modulo può funzionare normalmente non c'è motivo di attivarli, sei sicuro di volerli attivare?</string>
+
+    <string name="edit_env_map_list">Modifica la mappa proprietà env. </string>
+
+    <string name="edit_file_map">Modifica mappa file</string>
+
+    <string name="edit_item">"Modifica "</string>
+
+    <string name="env_map">Mappa proprietà Env.</string>
+
+    <string name="env_map_stopped">Mappa proprietà Env. fermata</string>
+
+    <string name="env_map_way_global">Globale</string>
+
+    <string name="env_map_way_local">App colpite</string>
+
+    <string name="env_maps_disabled">Fermata</string>
+
+    <string name="env_maps_on">Attivata</string>
+
+    <string name="env_name">Chiave</string>
+
+    <string name="env_val_map_way">Area della mappa</string>
+
+    <string name="env_value">Valore</string>
+
+    <string name="error">Errore</string>
+
+    <string name="exit">Esci</string>
+
+    <string name="fail">Fallito.</string>
+
+    <string name="failt_to_access_root">%s fallimento nell'ottenere i permessi di root.</string>
+
+    <string name="file_action">Azione</string>
+
+    <string name="file_action_hide">Nascondi il file.</string>
+
+    <string name="file_action_map_to">Reindirizza ad un file</string>
+
+    <string name="file_action_target">File bersaglio</string>
+
+    <string name="file_map">Mappatura del file</string>
+
+    <string name="file_name">Parola chiave</string>
+
+    <string name="focus_app_hide">Nascondi tutte le app</string>
+
+    <string name="focus_app_hide_de">-</string>
+
+    <string name="hidden_app">Applicazioni nascoste</string>
+
+    <string name="hide_file">Nascondilo</string>
+
+    <string name="ia_update">--</string>
+
+    <string name="ignore">Ignora</string>
+
+    <string name="ignore_">Ignora</string>
+
+    <string name="in_ask">%s è necessario rilasciare alcuni files nella partizione di sistema per il funzionamento, continuare?</string>
+
+    <string name="in_done">Finito.</string>
+
+    <string name="in_err_fail_to_exec_sh">Fallimento nell'esecuzione dello script di installazione.</string>
+
+    <string name="in_err_fail_to_release_files">Rilascio dei files fallito.</string>
+
+    <string name="in_err_unknown_err">Installazione fallita, riprova.</string>
+
+    <string name="in_fail_msg">Installazione fallita</string>
+
+    <string name="in_succ">Completato.</string>
+
+    <string name="in_succ_msg">Completato.</string>
+
+    <string name="inject_fail">Errore</string>
+
+    <string name="install">Installastring>
+
+    <string name="installing_msg">Installazione in corso....\n\nPlease wait</string>
+
+    <string name="keyword">Parole chiave (keywords)</string>
+
+    <string name="keyword_list">Modifica la lista delle parole chiave (keywords)</string>
+
+    <string name="kill_it">Chiudila forzatamente</string>
+
+    <string name="kt_cmdline">./Cmdline</string>
+
+    <string name="kt_status">./Stato</string>
+
+    <string name="ky_maps">./Mappe</string>
+
+    <string name="le_ask_ok">Sei sicuro di voler esportare il log?</string>
+
+    <string name="le_exporting">Esportamento del log...</string>
+
+    <string name="le_fail">Esportamento fallito</string>
+
+    <string name="le_ok">Il file di log è stato salvato in</string>
+
+    <string name="little_tip">Scorri verso i lati per rimuovere le App, o cliccaci sopra per chiuderle forzatamente.</string>
+
+    <string name="load_applist_failed">Fallimento nell'ottenere la lista delle applicazioni.</string>
+
+    <string name="load_config">Caricamento della configurazione....</string>
+
+    <string name="loading_applist">Caricamento della lista applicazioni...</string>
+
+    <string name="log_export_msg">-</string>
+
+    <string name="log_share">Condividi</string>
+
+    <string name="main_menu_item_about">Info sulla app</string>
+
+    <string name="main_menu_item_about_dec">Fatta da DCat 2016/09/17, tradotta da Davixk il 20/10/2016</string>
+
+    <string name="main_menu_item_applist">Lista delle applicazioni</string>
+
+    <string name="main_menu_item_applist_dec">Modifica la lista delle App per l'occultamento dei permessi di root.</string>
+
+    <string name="main_menu_item_ms">Impostazioni</string>
+
+    <string name="main_menu_item_ms_dec">Impostazioni avanzate</string>
+
+    <string name="main_switch">Interruttore principale</string>
+
+    <string name="main_switch_de">-</string>
+
+    <string name="map_to">Mappa per</string>
+
+    <string name="maping">Mappatura...</string>
+
+    <string name="maps_replace">Rimpiazza le mappe delle keywords</string>
+
+    <string name="new_item">Nuovo oggetto</string>
+
+    <string name="no">No</string>
+
+    <string name="no_problem_found">Nessun problema rilevato.</string>
+
+    <string name="nonono">No</string>
+
+    <string name="not_fixed_nyaa">%s potrebbe non funzionare correttamente, continuare?</string>
+
+    <string name="nr_err_need_fix">Alcuni problemi sono stati rilevati,%s potrebbe NON funzionare correttamente.</string>
+
+    <string name="nr_ignore">Ignora</string>
+
+    <string name="nr_to_fix">Correggi</string>
+
+    <string name="o_clean_manu">Pulisci file tmp.</string>
+
+    <string name="o_clean_manu_de">-</string>
+
+    <string name="off">Off</string>
+
+    <string name="ok">OK</string>
+
+    <string name="okokok">OK</string>
+
+    <string name="ol_ol">Finito.</string>
+
+    <string name="on">On</string>
+
+    <string name="other">Altri</string>
+
+    <string name="pa_dilong">Mostra finestra d'aiuto</string>
+
+    <string name="pe_busybox_de">Solo un busybox.</string>
+
+    <string name="pe_busybox_err">Busybox non è installato.</string>
+
+    <string name="pe_busybox_fix">Installa</string>
+
+    <string name="pe_busybox_ok">-</string>
+
+    <string name="pa_dilong_de">-</string>
+
+    <string name="pe_dialog">Richiede permesso display hover windows</string>
+
+    <string name="pe_dialog_fix">Per autorizzare</string>
+
+    <string name="pe_dialog_ok">-</string>
+
+    <string name="pe_dialog_dm">Su Android 6.0 e superiori, mostrare una finestra di dialogo richiede dei permessi.</string>
+
+    <string name="pe_dialog_tip">Nella finestra pop-up, seleziona consenti costruzione finestre da altre applicazioni.</string>
+
+    <string name="pe_lib_de">La libreria è necessaria.</string>
+
+    <string name="pe_lib_err">La libreria non è installata o è danneggiata.</string>
+
+    <string name="pe_lib_fix">Installa</string>
+
+    <string name="pe_lib_ok">-</string>
+
+    <string name="pe_selinux_de">SELinux interferirà con il lavoro dei plug-in.</string>
+
+    <string name="pe_selinux_err">SELinux è in modalità enforcing</string>
+
+    <string name="pe_selinux_fix">Cambia stato di SELinux</string>
+
+    <string name="pe_selinux_ok">-</string>
+
+    <string name="pe_xposed_de">Xposed è richiesto</string>
+
+    <string name="pe_xposed_err">Xposed è richiesto o ANRC è disabilitato</string>
+
+    <string name="pe_xposed_fix">Abilita</string>
+
+    <string name="pe_xposed_ok">-</string>
+
+    <string name="please_input">Input</string>
+
+    <string name="pm_action_done">Azione completata.</string>
+
+    <string name="pm_action_fail">Azione fallita.</string>
+
+    <string name="pm_err_backfile_already_exist">Errore :app_process_orig esisteva già.</string>
+
+    <string name="pm_err_backfile_nofound">Errore:app_process_orig è scomparso.</string>
+
+    <string name="pm_orig">Originale</string>
+
+    <string name="pm_replace">Rimpiazza con una versione modificata</string>
+
+    <string name="pm_replace_ask">Rimpiazzare /system/bin/pm per nascondere l'applicazione, continui? \n\ Assicurati di ripristinare pm prima di disinstallare la applicazione</string>
+
+    <string name="pm_replace_necrssary">Alcune applicazioni (Come fate/go) necessitano il rimpiazzo di /system/bin/pm per funzionare normalmente, vuoi continuare?</string>
+
+    <string name="pm_replace_pp">Rimpiazza /system/bin/pm per nascondere la App in modo efficiente.</string>
+
+    <string name="pm_replaced">Versione Modificata</string>
+
+    <string name="pm_replacing">Rimpiazzamento...</string>
+
+    <string name="pm_rest_orig">Sei sicuro di voler ripristinare /system/bin/pm ?</string>
+
+    <string name="pm_restore_orig">Ripristina</string>
+
+    <string name="pm_status">Stato</string>
+
+    <string name="pref">Pref.</string>
+
+    <string name="proc_redirct">Reindirizzamento /proc a </string>
+
+    <string name="re_install_lib">Reinstalla le librerie.</string>
+
+    <string name="re_install_lib_de">Se il  plug-in fallisce, prova a reinstallare la libreria di supporto</string>
+
+    <string name="regene_file">Rigenera il file</string>
+
+    <string name="regene_file_de">Rigenera il file che supporta la env. prop falsa.</string>
+
+    <string name="reject">Respingi</string>
+
+    <string name="retry">Riprova</string>
+
+    <string name="retry_it">Riprova</string>
+
+    <string name="rgp_gene_fail">Rigenerazione fallita!</string>
+
+    <string name="rgp_geng_succ">Rigenerazione completata.</string>
+
+    <string name="rgp_genging">Rigenerazione in corso...</string>
+
+    <string name="run_install_script">Esecuzione dello script di installazione in corso.</string>
+
+    <string name="save">Salva</string>
+
+    <string name="search">Cerca</string>
+
+    <string name="select_keryword_type">Tipo di parola chiave (keyword)</string>
+
+    <string name="selinux_intro"></string>
+
+    <string name="selinux_off">Disabilita SELinux</string>
+
+    <string name="selinux_on">Abilita SELinux</string>
+
+    <string name="selinux_set">SELinux</string>
+
+    <string name="selinux_status">Stato di SELinux:</string>
+
+    <string name="set_base">Base</string>
+
+    <string name="share">Condividi</string>
+
+    <string name="show_xposed_install_guide">Guida all'installazione</string>
+
+    <string name="solve">Risolvi</string>
+
+    <string name="status">Stato</string>
+
+    <string name="status_warn_text">Alcuni problemi sono stati rilevati, ANRC potrebbe non funzionare normalmente.(Clicca su di questo messaggio per risolvere)</string>
+
+    <string name="stop_env_map">Ferma la mappatura delle proprietà env.</string>
+
+    <string name="stop_env_map_de">Ferma la mappatura delle proprietà env. e ripristina i valori originali.</string>
+
+    <string name="supplib">Libreria di supporto</string>
+
+    <string name="tip">Suggerimento</string>
+
+    <string name="title_activity_about">Info</string>
+
+    <string name="title_activity_advanced_setting">Impostazioni avanzate</string>
+
+    <stri
