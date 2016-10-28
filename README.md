@@ -2,7 +2,7 @@
 
 A simple native root hide tool.
 
-Only support ARM.
+Only support ARM and ARM64.
 
 It's used to help me play some games.
 
