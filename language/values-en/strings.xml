@@ -80,7 +80,7 @@
     <string name="le_exporting">Exporting the log...</string>
     <string name="le_fail">Fail to export</string>
     <string name="le_ok">Log file has been saved to </string>
-    <string name="little_tip">Swipe to remove items,click to force-stop app.</string>
+    <string name="little_tip">Swipe to remove items,click to show more option.</string>
     <string name="load_applist_failed">Fail to get app-list.</string>
     <string name="load_config">Loading config....</string>
     <string name="loading_applist">Loading app-list...</string>
@@ -102,7 +102,7 @@
     <string name="no_problem_found">No problem found.</string>
     <string name="nonono">No</string>
     <string name="not_fixed_nyaa">%s may not work normally,continue?</string>
-    <string name="nr_err_need_fix">Some problem found,%s may not work normally.</string>
+    <string name="nr_err_need_fix">Some problems found,%s may not work normally.</string>
     <string name="nr_ignore">Ignore</string>
     <string name="nr_to_fix">Fix</string>
     <string name="o_clean_manu">Clean tmp files.</string>
@@ -237,4 +237,17 @@
         <item>nya nya nya？</item>
     </string-array>
     <string name="bypass_safetynet_de">-</string>
+    <string name="edit_item___">Edit</string>
+    <string name="action">Action</string>
+    <string name="action_base">Root Hide</string>
+    <string name="action_xigncode">Bypass XignCode</string>
+    <string name="extra_run">Run</string>
+    <string name="extra_force_stop">Force Stop</string>
+    <string name="lib_warn">/system is not writable.Bypass xigncode may not work.</string>
+    <string name="other__">-</string>
+    <string name="Annulla">-</string>
+    <string name="do_nothing">Catch a cat</string>
+    <string name="others">Others</string>
+    <string name="others_ag">AG Patch (Experiment)</string>
+    <string name="others_dont_kill_me">Don\'t Kill Me (Experiment)</string>
 </resources>
