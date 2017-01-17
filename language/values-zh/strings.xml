@@ -3,7 +3,6 @@
     <string name="app_full_name">DCat\'s ANRC</string>
     <string name="title_activity_app_launch_event">DCat</string>
     <string name="cancel">终止操作</string>
-    <string name="checking_msg">-</string>
     <string name="checking_msg_wait">请耐心等待喵~</string>
     <string name="main_menu_item_applist">应用列表</string>
     <string name="main_menu_item_about">关于</string>
@@ -126,7 +125,7 @@
     <string name="in_err_fail_to_release_files">释放文件失败</string>
     <string name="in_err_fail_to_exec_sh">执行安装脚本失败</string>
     <string name="in_err_unknown_err">安装失败,请重试</string>
-    <string name="in_succ">成功安装相关组件</string>
+    <string name="in_succ">成功安装相关组件\n且/system/bin/pm 已恢复为原版</string>
     <string name="in_done">安装操作结束</string>
     <string name="in_succ_msg">安装成功</string>
     <string name="in_fail_msg">安装失败</string>
@@ -203,13 +202,9 @@
     <string name="ia_update">支持库文件需要更新，继续？</string>
     <string name="env_map_stopped">已停止环境变量映射</string>
     <string name="search">搜索</string>
-    <string name="little_tip">滑动移除项目，单击强制终止应用</string>
+    <string name="little_tip">滑动移除项目，单击显示更多选项</string>
     <string-array name="tips">
-        <item>正在啪地龙</item>
-        <item>正在检查进程</item>
-        <item>喵喵喵？</item>
-        <item>汪汪汪？</item>
-        <item>这个框可以在设置中关掉...</item>
+        <item>ANRC正在处理...</item>
     </string-array>
     <string name="title_activity_welcome">Welcome</string>
     <string name="reject">拒绝</string>
@@ -236,4 +231,39 @@
     <string name="bypass_safetynet_de">先放个开关在这。。。</string>
     <string name="experi">实验性功能</string>
     <string name="use_dep_inject_way">使用旧的注入方式</string>
+    <string name="action">操作</string>
+    <string name="action_xigncode">Bypass XignCode</string>
+    <string name="action_base">隐藏Root</string>
+    <string name="edit_item___">编辑</string>
+    <string name="extra_force_stop">强制停止</string>
+    <string name="extra_run">运行</string>
+    <string name="lib_warn">由于/system不可写，支持库未完整安装，bypass xigncode 可能不可用。</string>
+    <string name="other__">-</string>
+    <string name="do_nothing">Catch a cat</string>
+    <string name="others">其他</string>
+    <string name="others_ag">AG Patch</string>
+    <string name="others_dont_kill_me">Don\'t Kill Me</string>
+    <string name="do_bypass_xign_v2">Bypass XignCode (另一种方式)</string>
+    <string name="input_pkg">手动输入包名</string>
+    <string name="input_pkg_name">请输入包名：</string>
+    <string name="non_xposed_mode_disable">ANRC需要重启设备以关闭Non-Xposed模式，是否继续？</string>
+    <string name="action_settings">Settings</string>
+    <string name="i_know">我知道了</string>
+    <string name="non_xposed_mode_enable">ANRC将尝试注入zygote，这可能会造成系统不稳定，是否继续？</string>
+    <string name="non_xposed_mode_enable_2">Non-Xposed 模式仅支持部分应用，且在重启后失效。</string>
+    <string name="non_xposed_mode_enable_done">操作成功完成(pid:</string>
+    <string name="non_xposed_mode_enable_fail">操作失败(pid:</string>
+    <string name="pm_restore_warn">支持库重装后，/system/bin/pm 将会被恢复为原版。(某些应用可能会出现ErrorCode 92)</string>
+    <string name="non_xposed_mode">我没有装Xposed</string>
+    <string name="non_xposed_mode_2">Non-Xposed模式 开关(实验性)</string>
+    <string name="non_xposed_mode_dec">不依赖Xposed实现root隐藏，仅支持部分应用</string>
+    <string name="checking_msg">-</string>
+    <string name="Annulla">-</string>
+    <string name="title_activity_non_xposed_mode">\t</string>
+    <string name="main_menu_non_xposed">\t</string>
+    <string name="main_menu_non_xposed_dec">\t</string>
+    <string name="disabled">未启用</string>
+    <string name="working">已启用</string>
+    <string name="selinux_turn_off">SELinux 将会被关闭，继续？</string>
+    <string name="non_xposed_mode_status">Non-Xposed模式 状态</string>
 </resources>
